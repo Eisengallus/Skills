@@ -80,10 +80,10 @@ den Fehler finden soll, und an fehlerfreien, an denen er nichts beanstanden darf
 
 ## Rückmeldungen
 
-Fehler, Fehlalarme und Vorschläge melden Sie bitte als **Issue**: mit dem geprüften Text (anonymisiert),
-dem Kommando und der Antwort des Skills. Pull Requests nimmt dieses Repositorium nicht an. Jede Änderung an einem
-Skill muss vor der Übernahme gegen die Prüffälle gemessen werden, und die sind nicht öffentlich. Was aus einem
-Issue folgt, fließt über eine gemessene neue Fassung ein.
+Fehler, Fehlalarme und Vorschläge melden Sie bitte als **Issue** über das Formular: mit dem geprüften Text,
+dem Kommando und der Antwort des Skills. Issues sind öffentlich: Verwenden Sie nur erfundene oder vollständig
+anonymisierte Texte, ohne Mandats-, Geschäfts- oder personenbezogene Daten. Pull Requests nimmt dieses
+Repositorium nicht an. Was aus einem Issue folgt, fließt über eine gemessene neue Fassung ein.
 
 ## Herkunft
 

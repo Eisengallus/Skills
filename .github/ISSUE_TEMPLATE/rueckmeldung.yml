@@ -1,0 +1,69 @@
+name: Rückmeldung zu einem Skill
+description: Fehler, Fehlalarm oder Vorschlag zu einem der acht Skills melden
+title: "recht-…: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Issues sind öffentlich.** Verwenden Sie nur erfundene oder vollständig anonymisierte Texte, ohne Mandats-, Geschäfts- oder personenbezogene Daten. Namen, Aktenzeichen, Anschriften und Beträge, die auf einen echten Fall schließen lassen, bitte ersetzen.
+
+        Die Skills erbringen keine Rechtsdienstleistung. Fragen zu einem konkreten Fall werden hier nicht beantwortet.
+  - type: dropdown
+    id: skill
+    attributes:
+      label: Skill
+      options:
+        - recht-grammatik
+        - recht-logik
+        - recht-rhetorik
+        - recht-methodik
+        - recht-beweis
+        - recht-anspruch
+        - recht-agb
+        - recht-zitat
+    validations:
+      required: true
+  - type: dropdown
+    id: art
+    attributes:
+      label: Art der Rückmeldung
+      options:
+        - Fehler übersehen
+        - Fehlalarm (beanstandet, obwohl kein Fehler vorliegt)
+        - Falsche Aussage zu Norm oder Rechtsprechung
+        - Vorschlag
+        - Installation oder Aufruf
+        - Sonstiges
+    validations:
+      required: true
+  - type: input
+    id: aufruf
+    attributes:
+      label: Aufruf
+      description: Kommando oder Anfrage in eigenen Worten, dazu das Werkzeug.
+      placeholder: "/recht-beweis:last in Claude Code"
+  - type: textarea
+    id: text
+    attributes:
+      label: Geprüfter Text
+      description: Erfunden oder vollständig anonymisiert.
+    validations:
+      required: false
+  - type: textarea
+    id: antwort
+    attributes:
+      label: Antwort des Skills
+      description: Die Ausgabe oder der Teil, um den es geht.
+  - type: textarea
+    id: erwartung
+    attributes:
+      label: Was Sie erwartet hätten
+    validations:
+      required: true
+  - type: checkboxes
+    id: vertraulichkeit
+    attributes:
+      label: Vertraulichkeit
+      options:
+        - label: Der Text enthält keine Mandats-, Geschäfts- oder personenbezogenen Daten.
+          required: true
