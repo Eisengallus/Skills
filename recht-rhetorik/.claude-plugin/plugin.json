@@ -1,0 +1,24 @@
+{
+  "name": "recht-rhetorik",
+  "description": "Die Wirkung juristischer Texte auf ihren Adressaten prüfen — Schriftsätze, Gutachten, Schreiben an Gericht, Behörde, Notar, Gegner oder Mandant, auch ihre Beschreibung. Gefragt wird, ob die Darstellung überzeugt: ob die Linie die Lage trägt und den Antrag deckt, ob der Aufbau zum tragenden Punkt führt, ob der Text seinen Adressaten trifft und der stärksten redlichen Gegenposition standhält; im Modus schriftsatz, ob ein Schriftsatz an ein Zivilgericht Antrag, Reihenfolge der Begehren, Berufungsbegründung und Form so fasst, wie das Gericht es verlangt. Ob ein Schluss gültig ist, geht an recht-logik; Darlegungs- und Beweislast, Substantiierung und Verspätung an recht-beweis. Normen und Urteile werden markiert, nie aus dem Gedächtnis eingesetzt. Modi: stresstest, status, gliederung, adressat, schriftsatz. Use when: „überzeugt der Schriftsatz“, „trägt unsere Linie“, „stimmt der Aufbau“, „passt das Schreiben für die Mandantin“, „greift die Berufungsbegründung jede tragende Erwägung an“.",
+  "version": "0.0.1",
+  "author": {
+    "name": "Eisengallus",
+    "url": "https://eisengallus.de"
+  },
+  "homepage": "https://eisengallus.de",
+  "repository": "https://github.com/Eisengallus/Skills",
+  "license": "MIT",
+  "keywords": [
+    "legal",
+    "law",
+    "german-law",
+    "deutsches-recht",
+    "legal-argument",
+    "rhetoric",
+    "persuasion",
+    "advocacy",
+    "critical-thinking"
+  ],
+  "category": "legal"
+}

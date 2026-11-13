@@ -1,0 +1,24 @@
+{
+  "name": "recht-anspruch",
+  "description": "Das Prüfprogramm juristischer Texte im deutschen Zivilrecht prüfen: Arbeitet ein Gutachten oder Schriftsatz die in Betracht kommenden Anspruchskategorien vollständig und in tragfähiger Ordnung ab? Geprüft werden die kanonische Reihenfolge (vertraglich — vertragsähnlich — dinglich — deliktisch — bereicherungsrechtlich) samt ihrer Vorfragen-Logik, die Sperrwirkungen (§§ 987 ff. BGB, Vorrang der Leistungskondiktion), der Stufenaufbau je Anspruch (entstanden — nicht erloschen — durchsetzbar) und die Ebenen der Einwendungen. Dazu der Nachschlag: abstrakte Prüfschemata je Anspruchskategorie. Use when: „prüfe die Vollständigkeit des Gutachtens\", „fehlt eine Anspruchsgrundlage\", „stimmt die Prüfungsreihenfolge\", „gib mir das Schema zu …\", „ist der Anspruchsaufbau vollständig\". Maßgeblich ist, ob das Prüfprogramm trägt — nicht, welche Ansprüche im konkreten Fall bestehen. Keine Rechtsdienstleistung im Sinne des RDG.",
+  "version": "0.0.1",
+  "author": {
+    "name": "Eisengallus",
+    "url": "https://eisengallus.de"
+  },
+  "homepage": "https://eisengallus.de",
+  "repository": "https://github.com/Eisengallus/Skills",
+  "license": "MIT",
+  "keywords": [
+    "legal",
+    "law",
+    "german-law",
+    "deutsches-recht",
+    "anspruchsaufbau",
+    "issue-spotting",
+    "pruefschema",
+    "zivilrecht",
+    "civil-law",
+    "claim-analysis"
+  ]
+}

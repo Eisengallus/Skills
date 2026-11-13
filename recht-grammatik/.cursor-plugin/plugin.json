@@ -1,0 +1,25 @@
+{
+  "name": "recht-grammatik",
+  "displayName": "Grammatik-Skill für das deutsche Recht (recht-grammatik)",
+  "version": "0.0.1",
+  "description": "Die sprachliche Form deutscher Rechtstexte prüfen — Verträge, AGB, Gesetze, Satzungen, Schriftsätze, Bescheide. Gesucht werden Stellen, deren Wortlaut zwei rechtlich verschieden wirkende Lesarten trägt oder eine verbindliche Form verfehlt: Reichweite von Bedingung, Ausnahme und Verneinung über eine Reihe, und/oder, soweit/sofern, Fristgrenzen, Anbindung von Relativsatz und Präpositionalgruppe, Pronomen und Verweise, Modalverben und Pflichtträger, Satzzeichen mit Bedeutungsfolge nach dem amtlichen Regelwerk. Der Skill legt die Lesarten offen und wählt keine. Modi: mehrdeutigkeit, zeichensetzung, norm, umformulieren. Use when: „ist diese Klausel eindeutig\", „worauf bezieht sich der Nebensatz\", „gilt die Bedingung für alle Fälle\", „prüfe die Kommas\", „Pflicht oder Befugnis?\", „formuliere das eindeutig\".",
+  "author": {
+    "name": "Eisengallus",
+    "url": "https://eisengallus.de"
+  },
+  "homepage": "https://eisengallus.de",
+  "repository": "https://github.com/Eisengallus/Skills",
+  "license": "MIT",
+  "keywords": [
+    "legal",
+    "law",
+    "german-law",
+    "deutsches-recht",
+    "legal-drafting",
+    "contract-interpretation",
+    "ambiguity",
+    "grammar",
+    "punctuation",
+    "critical-thinking"
+  ]
+}

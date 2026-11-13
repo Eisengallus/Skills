@@ -1,0 +1,32 @@
+{
+  "name": "recht-beweis",
+  "version": "0.0.1",
+  "description": "Beweisführung im deutschen Recht auf ihre Tragfähigkeit prüfen. Erste Frage ist die Verfahrensordnung: Beibringungs- oder Untersuchungsgrundsatz — davon hängt ab, welche Figur anwendbar ist. Geprüft werden die drei Lastebenen (Darlegung, Beweisführung, objektive Feststellungslast), das `non liquet`, Anscheinsbeweis und Erfahrungssatz, gesetzliche und tatsächliche Vermutungen samt Fiktion, das Beweismaß je Verfahrensordnung (§ 286 ZPO, § 261 StPO, § 108 VwGO, § 128 SGG, § 96 FGO, § 37 FamFG — dazu § 287 ZPO und die Glaubhaftmachung) sowie Beweisthema, Erheblichkeit und Beweisangebot. Use when: „prüfe die Beweisführung\", „wer trägt die Beweislast\", „trägt der Anscheinsbeweis\", „ist das Beweismaß richtig\", „reicht der Vortrag für einen Beweisantrag\", „was gilt bei non liquet\". Maßgeblich ist, ob der Beweisschritt trägt und offengelegt ist — nicht, ob das Ergebnis gefällt.",
+  "author": {
+    "name": "Eisengallus",
+    "url": "https://eisengallus.de"
+  },
+  "homepage": "https://eisengallus.de",
+  "repository": "https://github.com/Eisengallus/Skills",
+  "license": "MIT",
+  "keywords": [
+    "legal",
+    "law",
+    "german-law",
+    "deutsches-recht",
+    "beweisrecht",
+    "burden-of-proof",
+    "evidence",
+    "civil-procedure",
+    "prima-facie",
+    "critical-thinking"
+  ],
+  "skills": ".",
+  "interface": {
+    "displayName": "Beweisrecht-Skill für das deutsche Recht (recht-beweis)",
+    "shortDescription": "Prüft die TRAGFÄHIGKEIT der Beweisführung: Verfahrensordnung (Beibringungs- gegen Untersuchungsgrundsatz), Beweislast, Vermutungen, Beweismaß und Beweisangebot.",
+    "developerName": "Eisengallus",
+    "category": "Legal",
+    "websiteURL": "https://eisengallus.de"
+  }
+}

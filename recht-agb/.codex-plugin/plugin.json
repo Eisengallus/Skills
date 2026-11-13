@@ -1,0 +1,25 @@
+{
+  "name": "recht-agb",
+  "description": "Gleicht vorgelegte AGB-Klauseln gegen ein Register entschiedener Klauseln ab (überwiegend für unwirksam erklärt, dazu gebilligte Gegenbeispiele) und benennt die Fundstelle. Vergleicht — wertet nicht.",
+  "version": "0.0.1",
+  "author": {
+    "name": "Eisengallus",
+    "url": "https://eisengallus.de"
+  },
+  "homepage": "https://eisengallus.de",
+  "repository": "https://github.com/Eisengallus/Skills",
+  "license": "MIT",
+  "keywords": [
+    "legal",
+    "law",
+    "german-law",
+    "deutsches-recht",
+    "agb",
+    "terms-and-conditions",
+    "klauselkontrolle",
+    "contract-review",
+    "rechtsprechung",
+    "case-law"
+  ],
+  "skills": "."
+}

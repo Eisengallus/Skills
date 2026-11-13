@@ -1,0 +1,32 @@
+{
+  "name": "recht-zitat",
+  "description": "Prüft, ob die Nachweise eines juristischen Textes überprüfbar angegeben sind — Gericht, Datum, Aktenzeichen, Randnummer, Norm, Kennzeichnung des Zitats; deutsches Recht, EuGH, EGMR und Unionsrecht. Prüft die Angabe, nie ob der Nachweis existiert oder trägt.",
+  "version": "0.0.1",
+  "author": {
+    "name": "Eisengallus",
+    "url": "https://eisengallus.de"
+  },
+  "homepage": "https://eisengallus.de",
+  "repository": "https://github.com/Eisengallus/Skills",
+  "license": "MIT",
+  "keywords": [
+    "legal",
+    "law",
+    "german-law",
+    "deutsches-recht",
+    "citation",
+    "zitierweise",
+    "fundstellen",
+    "case-law",
+    "rechtsprechung",
+    "eu-law"
+  ],
+  "skills": ".",
+  "interface": {
+    "displayName": "Zitier-Skill für das deutsche Recht (recht-zitat)",
+    "shortDescription": "Prüft, ob jeder Nachweis eines juristischen Textes so angegeben ist, dass man ihn findet: Gericht, Datum, Aktenzeichen, Randnummer, Norm, Kennzeichnung des Zitats — nie, ob der Nachweis existiert oder trägt.",
+    "developerName": "Eisengallus",
+    "category": "Legal",
+    "websiteURL": "https://eisengallus.de"
+  }
+}

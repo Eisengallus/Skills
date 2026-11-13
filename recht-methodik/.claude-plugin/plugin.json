@@ -1,0 +1,25 @@
+{
+  "name": "recht-methodik",
+  "description": "Juristische Methodenlehre für das deutsche Recht. Prüft die Methode der Rechtsanwendung: Ist der Weg von der Norm zum Ergebnis tragfähig? Kern sind die Auslegungskanones (Wortlaut, Systematik, Historie, Telos) samt Wortlautgrenze und Rangfolge; die Rechtsfortbildung — planwidrige Lücke, vergleichbare Interessenlage, Gesetzes- gegenüber Rechtsanalogie, teleologische Reduktion, Umkehr- und Erst-recht-Schluss, Analogieverbote (Art. 103 Abs. 2 GG); die verfassungs- und unionsrechtskonforme Auslegung; die Relationstechnik (Kläger-, Beklagten-, Beweisstation, Zulässigkeit vor Begründetheit). Use when: „prüfe die Auslegung“, „ist das noch vom Wortlaut gedeckt“, „ist eine Analogie zulässig“, „liegt eine planwidrige Lücke vor“, „baue die Relation“, „schreibe im Gutachtenstil“. Maßgeblich ist, ob der methodische Schritt trägt — nicht, ob das Ergebnis gefällt. Keine Rechtsdienstleistung im Sinne des RDG.",
+  "version": "0.0.1",
+  "author": {
+    "name": "Eisengallus",
+    "url": "https://eisengallus.de"
+  },
+  "homepage": "https://eisengallus.de",
+  "repository": "https://github.com/Eisengallus/Skills",
+  "license": "MIT",
+  "keywords": [
+    "legal",
+    "law",
+    "german-law",
+    "deutsches-recht",
+    "methodenlehre",
+    "legal-methodology",
+    "statutory-interpretation",
+    "analogy",
+    "subsumption",
+    "critical-thinking"
+  ],
+  "category": "legal"
+}

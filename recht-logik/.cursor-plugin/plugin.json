@@ -1,0 +1,24 @@
+{
+  "name": "recht-logik",
+  "displayName": "Logik-Skill für das deutsche Recht (recht-logik)",
+  "version": "0.0.1",
+  "description": "Die Folgerichtigkeit juristischer Argumentation im deutschen Recht prüfen — Schriftsätze, Gutachten, Vermerke, Bescheide, Vertragsklauseln und Normen. Gesucht wird, ob ein Ergebnis aus seinen Gründen folgt, auch der Schluss aus einer Auslegung; ob ein Begriff im Verlauf seinen Umfang behält und eine Einteilung trägt; ob sich der Text widerspricht; ob Tatsache und Wertung im Schluss getrennt bleiben. Normen und Rechtsprechung werden zur Prüfung markiert, nie aus dem Gedächtnis eingesetzt. Modi: pruefen, klausel, korrektur, vergleich, norm. Use when: „folgt das Ergebnis aus der Begründung“, „ist das ein Zirkelschluss“, „fehlt ein Tatbestandsmerkmal“, „widerspricht sich der Schriftsatz“, „ist die Klausel lückenlos“, „worüber streiten die Parteien eigentlich“, „zerlege die Norm“, „berichtige die Argumentation“.",
+  "author": {
+    "name": "Eisengallus",
+    "url": "https://eisengallus.de"
+  },
+  "homepage": "https://eisengallus.de",
+  "repository": "https://github.com/Eisengallus/Skills",
+  "license": "MIT",
+  "keywords": [
+    "legal",
+    "law",
+    "german-law",
+    "deutsches-recht",
+    "legal-reasoning",
+    "subsumption",
+    "interpretation",
+    "contract",
+    "critical-thinking"
+  ]
+}
